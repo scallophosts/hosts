@@ -1,0 +1,194 @@
+# GTA OL Start
+52.88.236.107 prod.telemetry.ros.rockstargames.com
+192.81.241.100 prod.ros.rockstargames.com
+192.81.241.100 auth-prod.ros.rockstargames.com
+192.81.241.100 conductor-prod.ros.rockstargames.com
+192.81.245.200 prod.p01sjc.pod.rockstargames.com
+68.142.107.164 prod.cloud.rockstargames.com
+68.142.107.164 a.rsg.sc
+68.142.107.164 patches.rockstargames.com
+# GTA OL End
+
+# Wikipedia Start
+198.35.26.96 zh.wikipedia.org
+198.35.26.96 zh.m.wikipedia.org
+198.35.26.96 zh-yue.wikipedia.org
+198.35.26.96 wuu.wikipedia.org
+# Wikipedia End
+
+# MEGA Start
+31.216.148.10 mega.nz
+117.18.237.188 g.cdn1.mega.co.nz
+31.216.148.11 g.static.mega.co.nz
+127.0.0.1 localhost.megasyncloopback.mega.nz
+# MEGA End
+
+# Instagram Start
+31.13.70.52 www.instagram.com
+31.13.70.52 instagram.com
+31.13.70.52 i.instagram.com
+31.13.70.52 help.instagram.com
+31.13.70.52 graph.instagram.com
+31.13.70.52 api.instagram.com
+31.13.70.52 business.instagram.com
+31.13.70.52 l.instagram.com
+31.13.70.52 white.instagram.com
+31.13.70.52 maps.instagram.com
+31.13.70.52 upload.instagram.com
+31.13.70.52 black.instagram.com
+31.13.70.52 community.instagram.com
+31.13.70.52 logger.instagram.com
+31.13.70.52 badges.instagram.com
+31.13.70.52 m.instagram.com
+31.13.70.52 platform.instagram.com
+31.13.70.52 scontent.cdninstagram.com
+# Instagram End
+
+# Facebook Start
+157.240.11.17 www.facebook.com
+157.240.11.17 facebook.com
+157.240.11.17 l.facebook.com
+157.240.11.17 m.facebook.com
+157.240.11.17 free.facebook.com
+157.240.11.17 apps.facebook.com
+157.240.11.17 business.facebook.com
+157.240.11.17 developers.facebook.com
+157.240.11.17 es-la.facebook.com
+157.240.11.17 en-gb.facebook.com
+157.240.11.17 fr-fr.facebook.com
+157.240.11.17 pt-br.facebook.com
+157.240.11.17 de-de.facebook.com
+157.240.11.17 it-it.facebook.com
+157.240.11.17 ar-ar.facebook.com
+157.240.11.17 mbasic.facebook.com
+157.240.11.17 web.facebook.com
+157.240.11.17 mobile.facebook.com
+157.240.11.17 intern.facebook.com
+157.240.11.17 graph.facebook.com
+157.240.11.22 staticxx.facebook.com
+157.240.11.22 connect.facebook.net
+157.240.11.22 static.xx.fbcdn.net
+157.240.11.5 cx.atdmt.com
+# Facebook End
+
+# Pixiv Start
+210.129.120.41 www.pixiv.net
+210.129.120.42 pixiv.net
+210.129.120.43 en-dic.pixiv.net
+210.129.120.44 dic.pixiv.net
+210.129.120.45 factory.pixiv.net
+210.129.120.46 accounts.pixiv.net
+210.129.120.47 payment.pixiv.net
+210.129.120.48 sensei.pixiv.net
+210.129.120.49 touch.pixiv.net
+210.129.120.50 oauth.secure.pixiv.net
+210.129.120.51 app-api.pixiv.net
+210.129.120.52 ssl.pixiv.net
+210.140.131.144 source.pixiv.net
+210.140.131.145 comic.pixiv.net
+210.140.131.146 novel.pixiv.net
+210.140.131.147 imgaz.pixiv.net
+210.140.170.179 sketch.pixiv.net
+74.120.148.201 g-client-proxy.pixiv.net
+# Speed Up
+0.0.0.0 pixpedia.report-uri.io
+0.0.0.0 pixiv.report-uri.io
+0.0.0.0 481.gsspcln.jp
+0.0.0.0 cs.gssprt.jp
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 aladdin.genieesspv.jp
+0.0.0.0 js.gsspcln.jp
+0.0.0.0 nw.ads.doko.jp
+0.0.0.0 oxjapan-d.openx.net
+0.0.0.0 cas.criteo.com
+0.0.0.0 cache.send.microadinc.com
+0.0.0.0 j.microad.net
+0.0.0.0 jp-u.openx.net
+0.0.0.0 s-rtb.send.microadinc.com
+0.0.0.0 ssp.send.microadinc.com
+0.0.0.0 static.criteo.net
+0.0.0.0 j.microad.net
+0.0.0.0 481.gsspcln.jp
+0.0.0.0 nw.ads.doko.jp
+0.0.0.0 yads.c.yimg.jp
+0.0.0.0 spad.i-mobile.co.jp
+0.0.0.0 js.gsspcln.jp
+0.0.0.0 aladdin.genieesspv.jp
+0.0.0.0 spcdnsp.i-mobile.co.jp
+0.0.0.0 ssp-bidapi-n2.i-mobile.co.jp
+0.0.0.0 bn.tapone.net
+0.0.0.0 api.tapone.jp
+0.0.0.0 cdn.bn.tapone.jp
+0.0.0.0 taponejs-184e.kxcdn.com
+0.0.0.0 cs.nex8.net
+0.0.0.0 js1.nend.net
+0.0.0.0 ad2.nend.net
+0.0.0.0 ad.caprofitx.adtdp.com
+0.0.0.0 cdn.caprofitx.com
+0.0.0.0 sync.fout.jp
+0.0.0.0 cdn.gmossp-sp.jp
+0.0.0.0 sp.gmossp-sp.jp
+0.0.0.0 adn-d.sp.gmossp-sp.jp
+0.0.0.0 adn-i.sp.gmossp-sp.jp
+0.0.0.0 cm.send.microad.jp
+0.0.0.0 match.adsrvr.org
+0.0.0.0 ad2.fivecdm.com
+0.0.0.0 bc2.fivecdm.com
+0.0.0.0 d.socdm.com
+0.0.0.0 aax-fe-sin.amazon-adsystem.com
+0.0.0.0 i.socdm.com
+0.0.0.0 js.ad-stir.com
+0.0.0.0 tg.socdm.com
+0.0.0.0 ad.ad-stir.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 www.googleadservices.com
+0.0.0.0 dis.criteo.com
+0.0.0.0 cat.hk.as.criteo.com
+0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 oxjapan-d.openx.net
+0.0.0.0 p.adsymptotic.com
+0.0.0.0 ad.turn.com
+0.0.0.0 jp-u.openx.net
+0.0.0.0 rt.gsspat.jp
+0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 p.rfihub.com
+0.0.0.0 sync-dsp.ad-m.asia
+0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 sync.mathtag.com
+0.0.0.0 cr-p3.ladsp.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 us-u.openx.net
+0.0.0.0 sync-tapi.admatrix.jp
+0.0.0.0 s.yjtag.jp
+0.0.0.0 yjtag.yahoo.co.jp
+0.0.0.0 jpmarket-d.openx.net
+0.0.0.0 s.yimg.jp
+0.0.0.0 yads.yjtag.yahoo.co.jp
+0.0.0.0 tr.ad-stir.com
+0.0.0.0 openx2-match.dotomi.com
+0.0.0.0 gum.criteo.com
+# Pixiv End
+
+# Google Start
+61.91.161.217 www.google.com
+61.91.161.217 google.com
+61.91.161.217 plus.google.com
+61.91.161.217 accounts.google.com
+61.91.161.217 apis.google.com
+61.91.161.217 ogs.google.com
+61.91.161.217 clients5.google.com
+61.91.161.217 notifications.google.com
+61.91.161.217 play.google.com
+61.91.161.217 ipv4.google.com
+61.91.161.217 id.google.com
+61.91.161.217 maps.google.com
+61.91.161.217 code.google.com
+61.91.161.217 lh3.googleusercontent.com
+61.91.161.217 ajax.googleapis.com
+# Google Stop
+
+# Others Start
+184.169.131.78 chinadigitaltimes.net
+184.169.131.78 www.chinadigitaltimes.net
+# Others Stop
