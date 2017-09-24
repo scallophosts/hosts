@@ -84,10 +84,10 @@
 210.129.120.50 oauth.secure.pixiv.net
 210.129.120.51 app-api.pixiv.net
 210.129.120.52 ssl.pixiv.net
-210.140.131.144 source.pixiv.net
-210.140.131.145 comic.pixiv.net
-210.140.131.146 novel.pixiv.net
+210.140.131.145 source.pixiv.net
+210.140.131.144 novel.pixiv.net
 210.140.131.147 imgaz.pixiv.net
+210.140.131.153 comic.pixiv.net
 210.140.170.179 sketch.pixiv.net
 74.120.148.201 g-client-proxy.pixiv.net
 # Speed Up
@@ -168,6 +168,7 @@
 0.0.0.0 tr.ad-stir.com
 0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 cdn-fluct.sh.adingo.jp
 # Pixiv End
 
 # Google Start
@@ -177,7 +178,6 @@
 61.91.161.217 accounts.google.com
 61.91.161.217 apis.google.com
 61.91.161.217 ogs.google.com
-61.91.161.217 clients5.google.com
 61.91.161.217 notifications.google.com
 61.91.161.217 play.google.com
 61.91.161.217 ipv4.google.com
