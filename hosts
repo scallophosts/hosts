@@ -73,23 +73,32 @@
 
 # Pixiv Start
 210.129.120.41 www.pixiv.net
-210.129.120.42 pixiv.net
-210.129.120.43 en-dic.pixiv.net
-210.129.120.44 dic.pixiv.net
-210.129.120.45 factory.pixiv.net
-210.129.120.46 accounts.pixiv.net
-210.129.120.47 payment.pixiv.net
-210.129.120.48 sensei.pixiv.net
-210.129.120.49 touch.pixiv.net
-210.129.120.50 oauth.secure.pixiv.net
-210.129.120.51 app-api.pixiv.net
-210.129.120.52 ssl.pixiv.net
-210.140.131.145 source.pixiv.net
+210.129.120.41 pixiv.net
+210.129.120.41 en-dic.pixiv.net
+210.129.120.41 en.dic.pixiv.net
+210.129.120.41 dic.pixiv.net
+210.129.120.41 factory.pixiv.net
+210.129.120.41 accounts.pixiv.net
+210.129.120.41 payment.pixiv.net
+210.129.120.41 sensei.pixiv.net
+210.129.120.41 touch.pixiv.net
+210.129.120.41 oauth.secure.pixiv.net
+210.129.120.41 app-api.pixiv.net
+210.129.120.41 ssl.pixiv.net
+210.129.120.41 chat.pixiv.net
+210.129.120.41 m.pixiv.net
+210.129.120.41 recruit.pixiv.net
+210.140.131.144 source.pixiv.net
 210.140.131.144 novel.pixiv.net
-210.140.131.147 imgaz.pixiv.net
-210.140.131.153 comic.pixiv.net
+210.140.131.144 imgaz.pixiv.net
+210.140.131.144 comic.pixiv.net
+210.140.131.144 i1.pixiv.net
 210.140.170.179 sketch.pixiv.net
 74.120.148.201 g-client-proxy.pixiv.net
+113.33.39.198 blog.pixiv.net
+113.33.39.198 p2.pixiv.net
+153.120.23.207 help.pixiv.net
+13.112.5.107 inside.pixiv.net
 # Speed Up
 0.0.0.0 pixpedia.report-uri.io
 0.0.0.0 pixiv.report-uri.io
