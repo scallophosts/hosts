@@ -181,23 +181,6 @@
 0.0.0.0 cdn-fluct.sh.adingo.jp
 # Pixiv End
 
-# Google Start
-61.91.161.217 www.google.com
-61.91.161.217 google.com
-61.91.161.217 plus.google.com
-61.91.161.217 accounts.google.com
-61.91.161.217 apis.google.com
-61.91.161.217 ogs.google.com
-61.91.161.217 notifications.google.com
-61.91.161.217 play.google.com
-61.91.161.217 ipv4.google.com
-61.91.161.217 id.google.com
-61.91.161.217 maps.google.com
-61.91.161.217 code.google.com
-61.91.161.217 lh3.googleusercontent.com
-61.91.161.217 ajax.googleapis.com
-# Google Stop
-
 # Others Start
 184.169.131.78 chinadigitaltimes.net
 184.169.131.78 www.chinadigitaltimes.net
