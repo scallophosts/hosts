@@ -1,12 +1,12 @@
 # GTA OL Start
-52.88.236.107 prod.telemetry.ros.rockstargames.com
+34.214.165.124 prod.telemetry.ros.rockstargames.com
 192.81.241.100 prod.ros.rockstargames.com
 192.81.241.100 auth-prod.ros.rockstargames.com
 192.81.241.100 conductor-prod.ros.rockstargames.com
 192.81.245.200 prod.p01sjc.pod.rockstargames.com
-68.142.107.164 prod.cloud.rockstargames.com
-68.142.107.164 a.rsg.sc
-68.142.107.164 patches.rockstargames.com
+87.248.214.62 prod.cloud.rockstargames.com
+87.248.214.62 a.rsg.sc
+87.248.214.62 patches.rockstargames.com
 # GTA OL End
 
 # Wikipedia Start
