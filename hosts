@@ -9,14 +9,15 @@
 
 # GTA OL Start
 54.201.113.185 prod.telemetry.ros.rockstargames.com
-192.81.241.100 prod.ros.rockstargames.com
-192.81.241.100 auth-prod.ros.rockstargames.com
-192.81.241.100 conductor-prod.ros.rockstargames.com
-192.81.245.200 prod.p01sjc.pod.rockstargames.com
 87.248.214.62 prod.cloud.rockstargames.com
 87.248.214.62 a.rsg.sc
 87.248.214.62 patches.rockstargames.com
 # GTA OL End
+
+# Wikinews Start
+198.35.26.96 zh.wikinews.org
+198.35.26.96 zh.m.wikinews.org
+# Wikinews Stop
 
 # Wikipedia Start
 198.35.26.96 zh.wikipedia.org
@@ -24,12 +25,12 @@
 198.35.26.96 zh-yue.wikipedia.org
 198.35.26.96 wuu.wikipedia.org
 198.35.26.96 ja.wikipedia.org
+198.35.26.96 ug.wikipedia.org
 # Wikipedia End
 
 # MEGA Start
 31.216.148.10 mega.nz
 93.184.220.188 g.cdn1.mega.co.nz
-127.0.0.1 localhost.megasyncloopback.mega.nz
 # MEGA End
 
 # Instagram Start
