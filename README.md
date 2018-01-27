@@ -1,2 +1,2 @@
-# hosts
+# Scallop Hosts
 My own maintaining hosts
