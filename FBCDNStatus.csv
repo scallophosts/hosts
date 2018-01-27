@@ -38,6 +38,7 @@ Name,Status: p3,Status: p4/p42,Status: live-upload
 01-nrt1,×,√○,√
 01-ort2,×,√○,√
 02-ort2,○,○,√
+01-otp1,○,○,√
 01-sea1,×,√○,×
 01-sin6,×,○,×
 02-sin6,×,○,√
