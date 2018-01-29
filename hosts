@@ -31,7 +31,7 @@
 54.210.50.132 mmh.whatsapp.net
 # mms rst backup 169.54.222.146 198.23.80.24
 169.54.222.149 mms.whatsapp.net
-# WhatsApp Stop
+# WhatsApp End
 
 # Steam Start
 23.10.6.47 store.steampowered.com
@@ -52,7 +52,7 @@
 # Wikinews Start
 198.35.26.96 zh.wikinews.org
 198.35.26.96 zh.m.wikinews.org
-# Wikinews Stop
+# Wikinews End
 
 # Wikipedia Start
 198.35.26.96 zh.wikipedia.org
@@ -263,4 +263,4 @@
 184.169.131.78 www.chinadigitaltimes.net
 207.241.224.2 archive.org
 207.241.225.186 web.archive.org
-# Others Stop
+# Others End
