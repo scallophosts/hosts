@@ -1,9 +1,36 @@
 # WhatsApp Start
-169.44.82.102 whatsapp.com
-169.44.82.102 www.whatsapp.com
-169.44.85.94 web.whatsapp.com
-107.23.234.123 faq.whatsapp.com
+169.44.82.102 whatsapp.com
+169.44.82.102 www.whatsapp.com
+169.44.82.102 blog.whatsapp.com
+169.44.82.120 web.whatsapp.com
+107.23.234.123 faq.whatsapp.com
 107.23.234.123 www-cdn.whatsapp.net
+107.23.234.123 crashlogs.whatsapp.net
+169.44.80.10 v.whatsapp.net
+158.85.5.217 m.whatsapp.net
+174.37.243.84 p.whatsapp.net
+50.22.210.33 r.whatsapp.net
+169.55.75.106 c.whatsapp.net
+169.63.73.124 e1.whatsapp.net
+169.63.73.124 e2.whatsapp.net
+169.63.73.124 e3.whatsapp.net
+169.63.73.124 e4.whatsapp.net
+169.63.73.124 e5.whatsapp.net
+169.63.73.124 e6.whatsapp.net
+169.63.73.124 e7.whatsapp.net
+169.63.73.124 e8.whatsapp.net
+169.63.73.124 e9.whatsapp.net
+169.63.73.124 e10.whatsapp.net
+169.63.73.124 e11.whatsapp.net
+169.63.73.124 e12.whatsapp.net
+169.63.73.124 e13.whatsapp.net
+169.63.73.124 e14.whatsapp.net
+169.63.73.124 e15.whatsapp.net
+169.63.73.124 e16.whatsapp.net
+# mmh rst backup 107.22.116.89
+54.210.50.132 mmh.whatsapp.net
+# mms rst backup 169.54.222.146 198.23.80.24
+169.54.222.149 mms.whatsapp.net
 # WhatsApp Stop
 
 # Steam Start
