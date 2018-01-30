@@ -3,9 +3,23 @@
 169.44.82.102 www.whatsapp.com
 169.44.82.102 blog.whatsapp.com
 169.44.82.120 web.whatsapp.com
+169.44.82.120 dyn.web.whatsapp.com
+169.44.82.120 w1.web.whatsapp.com
+169.44.82.120 w2.web.whatsapp.com
+169.44.82.120 w3.web.whatsapp.com
+169.44.82.120 w4.web.whatsapp.com
+169.44.82.120 w5.web.whatsapp.com
+169.44.82.120 w6.web.whatsapp.com
+169.44.82.120 w7.web.whatsapp.com
+169.44.82.120 w8.web.whatsapp.com
 107.23.234.123 faq.whatsapp.com
 107.23.234.123 www-cdn.whatsapp.net
 107.23.234.123 crashlogs.whatsapp.net
+107.23.234.123 mmg-fna.whatsapp.net
+# mmh rst backup 107.22.116.89
+107.23.234.123 mmh.whatsapp.net
+# mms rst backup 169.54.222.146 198.23.80.24
+169.54.222.149 mms.whatsapp.net
 169.44.80.10 v.whatsapp.net
 158.85.5.217 m.whatsapp.net
 174.37.243.84 p.whatsapp.net
@@ -27,10 +41,6 @@
 169.63.73.124 e14.whatsapp.net
 169.63.73.124 e15.whatsapp.net
 169.63.73.124 e16.whatsapp.net
-# mmh rst backup 107.22.116.89
-54.210.50.132 mmh.whatsapp.net
-# mms rst backup 169.54.222.146 198.23.80.24
-169.54.222.149 mms.whatsapp.net
 # WhatsApp End
 
 # Steam Start
