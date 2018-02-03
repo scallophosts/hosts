@@ -15,9 +15,9 @@
 107.23.234.123 faq.whatsapp.com
 107.23.234.123 www-cdn.whatsapp.net
 107.23.234.123 crashlogs.whatsapp.net
-107.23.234.123 mmg-fna.whatsapp.net
-# mmh rst backup 107.22.116.89
-107.23.234.123 mmh.whatsapp.net
+# mmh rst backup 107.22.116.89 107.23.234.123
+54.210.50.132 mmh.whatsapp.net
+54.210.50.132 mmg-fna.whatsapp.net
 # mms rst backup 169.54.222.146 198.23.80.24
 169.54.222.149 mms.whatsapp.net
 169.44.80.10 v.whatsapp.net
@@ -41,7 +41,7 @@
 169.63.73.124 e14.whatsapp.net
 169.63.73.124 e15.whatsapp.net
 169.63.73.124 e16.whatsapp.net
-# WhatsApp End
+# WhatsApp Stop
 
 # Steam Start
 23.10.6.47 store.steampowered.com
