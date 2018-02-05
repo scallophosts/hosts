@@ -24,6 +24,7 @@ Name,Status: p3,Status: p4/p42,Status: live-upload
 02-hkg3,×,○,√
 01-iad3,×,○,×
 01-icn1,×,○,×
+01-jnb1,×,○,√
 01-kut2,○,○,√
 01-lax3,×,√○,×
 02-lax3,×,√○,√
@@ -39,6 +40,7 @@ Name,Status: p3,Status: p4/p42,Status: live-upload
 01-ort2,×,√○,√
 02-ort2,○,○,√
 01-otp1,○,○,√
+01-scl1,○,○,×
 01-sea1,×,√○,×
 01-sin6,×,○,×
 02-sin6,×,○,√
