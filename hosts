@@ -44,16 +44,17 @@
 # WhatsApp Stop
 
 # Steam Start
-23.10.6.47 store.steampowered.com
-23.10.6.47 api.steampowered.com
-23.10.6.47 steamcommunity.com
+23.52.74.146 store.steampowered.com
+23.52.74.146 api.steampowered.com
+23.52.74.146 steamcommunity.com
 23.210.203.43 store.akamai.steamstatic.com
 23.210.203.43 steamcommunity-a.akamaihd.net
-72.21.81.131 cdn.edgecast.steamstatic.com
+152.195.11.12 cdn.edgecast.steamstatic.com
+152.195.11.12 store.edgecast.steamstatic.com
 # Steam End
 
 # GTA OL Start
-54.201.113.185 prod.telemetry.ros.rockstargames.com
+35.165.149.245 prod.telemetry.ros.rockstargames.com
 87.248.214.62 prod.cloud.rockstargames.com
 87.248.214.62 a.rsg.sc
 87.248.214.62 patches.rockstargames.com
