@@ -1,3 +1,7 @@
+# The Pirate Bay Start
+104.27.217.28 thepiratebay.org
+# The Pirate Bay End
+
 # WhatsApp Start
 169.44.82.102 whatsapp.com
 169.44.82.102 www.whatsapp.com
@@ -41,7 +45,7 @@
 169.63.73.124 e14.whatsapp.net
 169.63.73.124 e15.whatsapp.net
 169.63.73.124 e16.whatsapp.net
-# WhatsApp Stop
+# WhatsApp End
 
 # Steam Start
 23.52.74.146 store.steampowered.com
@@ -54,7 +58,7 @@
 # Steam End
 
 # GTA OL Start
-35.165.149.245 prod.telemetry.ros.rockstargames.com
+34.213.124.4 prod.telemetry.ros.rockstargames.com
 87.248.214.62 prod.cloud.rockstargames.com
 87.248.214.62 a.rsg.sc
 87.248.214.62 patches.rockstargames.com
