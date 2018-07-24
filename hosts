@@ -48,14 +48,15 @@
 # WhatsApp End
 
 # Steam Start
-23.52.74.146 store.steampowered.com
-23.52.74.146 api.steampowered.com
-23.52.74.146 help.steampowered.com
-23.52.74.146 steamcommunity.com
-23.210.203.43 store.akamai.steamstatic.com
-23.210.203.43 steamcommunity-a.akamaihd.net
-152.195.11.12 cdn.edgecast.steamstatic.com
-152.195.11.12 store.edgecast.steamstatic.com
+23.11.245.109 store.steampowered.com
+23.11.245.109 api.steampowered.com
+23.11.245.109 help.steampowered.com
+23.11.245.109 steamcommunity.com
+219.76.10.203 steamcommunity-a.akamaihd.net
+219.76.10.203 steamstore-a.akamaihd.net
+219.76.10.203 steamcdn-a.akamaihd.net
+219.76.10.203 steamuserimages-a.akamaihd.net
+219.76.10.203 steambroadcast.akamaized.net
 # Steam End
 
 # GTA OL Start
