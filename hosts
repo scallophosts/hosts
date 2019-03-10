@@ -61,10 +61,17 @@
 # Steam End
 
 # GTA OL Start
-35.160.246.243 prod.telemetry.ros.rockstargames.com
+35.161.116.204 prod.telemetry.ros.rockstargames.com
+35.161.116.204 prod.realtimevc.ros.rockstargames.com
 87.248.214.62 prod.cloud.rockstargames.com
 87.248.214.62 a.rsg.sc
 87.248.214.62 patches.rockstargames.com
+# Backups
+# 87.248.214.62
+# 111.221.35.34
+# 95.140.230.157
+# 69.28.157.205
+# 208.111.182.27
 # GTA OL End
 
 # Wikinews Start
