@@ -61,17 +61,22 @@
 # Steam End
 
 # GTA OL Start
-35.161.116.204 prod.telemetry.ros.rockstargames.com
-35.161.116.204 prod.realtimevc.ros.rockstargames.com
-87.248.214.62 prod.cloud.rockstargames.com
-87.248.214.62 a.rsg.sc
-87.248.214.62 patches.rockstargames.com
+35.162.243.92 prod.telemetry.ros.rockstargames.com
+35.162.243.92 prod.realtimevc.ros.rockstargames.com
+95.140.236.24 prod.cloud.rockstargames.com
+95.140.236.24 a.rsg.sc
+95.140.236.24 patches.rockstargames.com
+192.81.241.100 prod.ros.rockstargames.com
+192.81.241.100 auth-prod.ros.rockstargames.com
+192.81.241.100 conductor-prod.ros.rockstargames.com
+192.81.245.200 prod.p01sjc.pod.rockstargames.com
 # Backups
-# 87.248.214.62
-# 111.221.35.34
-# 95.140.230.157
-# 69.28.157.205
+# 208.111.158.187
+# 178.79.242.83
 # 208.111.182.27
+# 178.79.242.221
+# 178.79.227.55
+# 95.140.236.24
 # GTA OL End
 
 # Wikinews Start
