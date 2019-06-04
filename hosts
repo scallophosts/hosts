@@ -63,9 +63,9 @@
 # GTA OL Start
 35.162.243.92 prod.telemetry.ros.rockstargames.com
 35.162.243.92 prod.realtimevc.ros.rockstargames.com
-95.140.236.24 prod.cloud.rockstargames.com
-95.140.236.24 a.rsg.sc
-95.140.236.24 patches.rockstargames.com
+208.111.182.27 prod.cloud.rockstargames.com
+208.111.182.27 a.rsg.sc
+208.111.182.27 patches.rockstargames.com
 192.81.241.100 prod.ros.rockstargames.com
 192.81.241.100 auth-prod.ros.rockstargames.com
 192.81.241.100 conductor-prod.ros.rockstargames.com
